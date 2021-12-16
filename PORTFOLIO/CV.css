@@ -1,0 +1,71 @@
+* {
+    font-family: avenir; sans-serif;
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+    box-sizing: border-box;
+    text-align: center;
+    color: azure;
+ }
+ body {
+      background-color: black; 
+      background-attachment: fixed;
+      text-align: center;
+      color: azure;
+      
+ }
+ p {
+   font-size: 3em;
+   line-height: 1.5em;
+   text-align: center;
+   color: azure;
+   font-weight: 400;
+ }
+ a {
+   text-decoration: none;
+   text-align: center;
+   font-size: 3em;
+   color: azure;
+   font-weight: 400;
+
+ }
+ header, footer {
+     width: 100%;
+     padding: 20px 0px;
+     background: url("cv-cover.png");
+     box-shadow: 0px 0px 15px #00ffff;
+     text-align: center;
+     font-size: 3em;
+     
+ }
+ header {
+    border-bottom:  2px solid #ffffff;
+    height: 120px;
+    
+ }
+ header {
+     color: blanchedalmond;
+     font-size: 1.5em;
+     width: 90%;
+     margin: 0 auto;
+     text-align: center;
+     color: azure;
+ }
+ footer {
+     border-top: 2px solid #ffffff;
+     background-image: url("cv-cover.png");
+     text-align: center;
+     color: #00ffff;
+ }
+ .photo {
+    text-align: center;
+ }
+ .photo img {
+      width: 100px;
+      height: 150px;
+      border:  3PX solid #ffffff;
+      box-shadow: 0px 0px 10px #808080;
+      border-radius: 50%;
+      margin-top: -80px;
+ }
+ 
